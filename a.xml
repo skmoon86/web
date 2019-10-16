@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<Shoplinker>
+	<OrderInfo>
+		<Order>
+			<customer_id>a0013217</customer_id>
+			<shoplinker_id>krit</shoplinker_id>
+			<st_date>20190101</st_date>
+			<ed_date>20191231</ed_date>
+			<mall_order_code />
+			<mall_user_id />
+			<page_no />
+			<total_standard_count />
+			<supply_id />
+		</Order>
+	</OrderInfo>
+</Shoplinker>
+	
