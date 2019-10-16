@@ -1,0 +1,38 @@
+<openMarket>
+ <productInfo>
+  <product>
+   <customer_id>a0013217</customer_id>
+   <partner_product_id>aaa1aa</partner_product_id>
+   <product_name><![CDATA[[WORLD GYM]월드짐 파워 부스터 - 근육 이완 크림 근육 키우는 방법]]></product_name>
+   <sale_status>001</sale_status>
+   <category_l>cat00001</category_l>
+   <category_m>cat00200</category_m>
+   <category_s>cat00201</category_s>
+   <category_d>cat00201</category_d>
+   <maker><![CDATA[월드짐]]></maker>
+   <origin><![CDATA[대한민국]]></origin>
+   <image_url num='1'><![CDATA[http://ad2.shoplinker.co.kr/product_image4/a0000018/201502/prod32436862_700.jpg]]></image_url>
+   <start_price>15000</start_price>
+   <market_price>15000</market_price>
+   <sale_price>15000</sale_price>
+   <supply_price>15000</supply_price>
+   <market_price_p>15000</market_price_p>
+   <sale_price_p>15000</sale_price_p>
+   <supply_price_p>15000</supply_price_p>
+   <delivery_charge_type>003</delivery_charge_type>
+   <delivery_charge>2500</delivery_charge>
+   <tax_yn>001</tax_yn>
+   <detail_desc><![CDATA[<img src='http://ad2.shoplinker.co.kr/product_image4/a0000018/201502/prod32436862_700.jpg'>]]></detail_desc>
+   <new_desc_top><![CDATA[<img src='http://ad2.shoplinker.co.kr/product_image4/a0003465/201412/prod31835526_700.jpg'>]]></new_desc_top>
+   <quantity>900</quantity>
+   <salearea>001</salearea>
+   <sex>001</sex>
+   <keyword><![CDATA[헬스크림,근육크림,파워부스터,월드짐,근육이완]]></keyword>
+   <model></model>
+   <model_no>7017688</model_no>
+   <option_kind>000</option_kind>
+   <brand><![CDATA[월드짐]]></brand>
+   <trans_product_id><![CDATA[]]></trans_product_id>
+  </product>
+ </productInfo>
+</openMarket>
